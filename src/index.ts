@@ -12,3 +12,6 @@ app.get('/', (req, res) => {
 app.listen(process.env.PORT, () => {
     console.log('servidor iniciado')
 })
+
+// TTD -> Test driven development = desenvolvimento guiado por testes
+// Modelo Link
